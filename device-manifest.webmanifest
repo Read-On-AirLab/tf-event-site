@@ -1,0 +1,11 @@
+{
+  "name": "리드온 부스",
+  "short_name": "리드온 부스",
+  "start_url": "./device/",
+  "scope": "./device/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [{ "src": "./favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
